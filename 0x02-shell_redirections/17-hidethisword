@@ -1,0 +1,1 @@
+- #!/bin/bash\ngrep -V bin /etc/passwd
